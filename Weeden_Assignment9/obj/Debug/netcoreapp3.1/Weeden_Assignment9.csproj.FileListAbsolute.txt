@@ -1,0 +1,11 @@
+C:\Users\Tristan\Desktop\MATC\S2\Intermediate Object Oriented Programing\Assignment 9\Weeden_Assignment9\Weeden_Assignment9\bin\Debug\netcoreapp3.1\Weeden_Assignment9.exe
+C:\Users\Tristan\Desktop\MATC\S2\Intermediate Object Oriented Programing\Assignment 9\Weeden_Assignment9\Weeden_Assignment9\bin\Debug\netcoreapp3.1\Weeden_Assignment9.deps.json
+C:\Users\Tristan\Desktop\MATC\S2\Intermediate Object Oriented Programing\Assignment 9\Weeden_Assignment9\Weeden_Assignment9\bin\Debug\netcoreapp3.1\Weeden_Assignment9.runtimeconfig.json
+C:\Users\Tristan\Desktop\MATC\S2\Intermediate Object Oriented Programing\Assignment 9\Weeden_Assignment9\Weeden_Assignment9\bin\Debug\netcoreapp3.1\Weeden_Assignment9.runtimeconfig.dev.json
+C:\Users\Tristan\Desktop\MATC\S2\Intermediate Object Oriented Programing\Assignment 9\Weeden_Assignment9\Weeden_Assignment9\bin\Debug\netcoreapp3.1\Weeden_Assignment9.dll
+C:\Users\Tristan\Desktop\MATC\S2\Intermediate Object Oriented Programing\Assignment 9\Weeden_Assignment9\Weeden_Assignment9\bin\Debug\netcoreapp3.1\Weeden_Assignment9.pdb
+C:\Users\Tristan\Desktop\MATC\S2\Intermediate Object Oriented Programing\Assignment 9\Weeden_Assignment9\Weeden_Assignment9\obj\Debug\netcoreapp3.1\Weeden_Assignment9.csprojAssemblyReference.cache
+C:\Users\Tristan\Desktop\MATC\S2\Intermediate Object Oriented Programing\Assignment 9\Weeden_Assignment9\Weeden_Assignment9\obj\Debug\netcoreapp3.1\Weeden_Assignment9.AssemblyInfoInputs.cache
+C:\Users\Tristan\Desktop\MATC\S2\Intermediate Object Oriented Programing\Assignment 9\Weeden_Assignment9\Weeden_Assignment9\obj\Debug\netcoreapp3.1\Weeden_Assignment9.AssemblyInfo.cs
+C:\Users\Tristan\Desktop\MATC\S2\Intermediate Object Oriented Programing\Assignment 9\Weeden_Assignment9\Weeden_Assignment9\obj\Debug\netcoreapp3.1\Weeden_Assignment9.dll
+C:\Users\Tristan\Desktop\MATC\S2\Intermediate Object Oriented Programing\Assignment 9\Weeden_Assignment9\Weeden_Assignment9\obj\Debug\netcoreapp3.1\Weeden_Assignment9.pdb
